@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Binar Challenge CH-3</string>
+    <string name="switch_mode">Switch Mode</string>
+
+    <string-array name="data_word">
+        <item>ayam</item>
+        <item>abu</item>
+        <item>acuh</item>
+        <item>baba</item>
+        <item>babi</item>
+        <item>baca</item>
+        <item>cari</item>
+        <item>coba</item>
+        <item>cekal</item>
+        <item>dari</item>
+        <item>database</item>
+        <item>discord</item>
+        <item>enak</item>
+        <item>enjoy</item>
+        <item>ecer</item>
+        <item>facebook</item>
+        <item>fikir</item>
+        <item>face</item>
+        <item>galah</item>
+        <item>gabah</item>
+        <item>ganteng</item>
+        <item>hari</item>
+        <item>habis</item>
+        <item>hak</item>
+        <item>indonesia</item>
+        <item>india</item>
+        <item>irlandia</item>
+        <item>jakarta</item>
+        <item>jati diri</item>
+        <item>juri</item>
+        <item>kali</item>
+        <item>koala</item>
+        <item>kecil</item>
+        <item>lali</item>
+        <item>like</item>
+        <item>london</item>
+        <item>manusia</item>
+        <item>manja</item>
+        <item>monyet</item>
+        <item>nabi</item>
+        <item>nomor</item>
+        <item>nuker</item>
+        <item>orang</item>
+        <item>obligasi</item>
+        <item>otaku</item>
+        <item>padang</item>
+        <item>point</item>
+        <item>ponari</item>
+        <item>quality Assurance</item>
+        <item>quality Time</item>
+        <item>quality Cry</item>
+        <item>rare</item>
+        <item>raba</item>
+        <item>rontok</item>
+        <item>sadar</item>
+        <item>salah</item>
+        <item>sajak</item>
+        <item>tamat</item>
+        <item>tiban</item>
+        <item>titisan</item>
+        <item>ulangan</item>
+        <item>ubi</item>
+        <item>ucl</item>
+        <item>varian</item>
+        <item>virtual</item>
+        <item>visual</item>
+        <item>warga</item>
+        <item>wareg</item>
+        <item>wanda</item>
+        <item>xxa</item>
+        <item>xxb</item>
+        <item>xxc</item>
+        <item>yatim</item>
+        <item>young boy</item>
+        <item>yeezy</item>
+        <item>zalan</item>
+        <item>zebra</item>
+        <item>zekke</item>
+    </string-array>
+</resources>
